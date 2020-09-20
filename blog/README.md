@@ -1,1 +1,1 @@
-Doing Django andstuff
+Doing Django and stuff
