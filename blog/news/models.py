@@ -24,4 +24,4 @@ class News(models.Model):
     created_at = models.DateTimeField(verbose_name="Дата создания", auto_now_add=timezone.now())
 
     def __str__(self):
-        return f"Посты: {self.title}"
+        return f"News: {self.title}"
